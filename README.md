@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/cantixcrew/Reverse"><img src="https://github.com/cantixcrew/Syreena/blob/main/img/Syreena_1.jpg" alt="Reverse IP Lookup"></a>
+  <a href="https://github.com/cantixcrew/Reverse"><img src="https://github.com/cantixcrew/Reverse/blob/main/img/Screenshot_20201106-032433~2.png" alt="Reverse IP Lookup"></a>
   <br>
 
 
